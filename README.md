@@ -22,6 +22,6 @@ In large IT organizations, efficient resource management is critical. This proje
 3.  **Project Hierarchy:** Retrieves detailed project views including Client Region and assigned Project Managers.
 
 ### How to Run
-1.  Download the `project_code.sql` file.
+1.  Download the `resource_management.sql` file.
 2.  Open in MySQL Workbench or any standard SQL compiler.
 3.  Execute the script to build the schema and populate the sample data.
